@@ -1,0 +1,2 @@
+# Training-and-Comparing-Models-to-Predict-Customer-Satisfaction-Index-
+In this project data from ‘Amazon Fine Food Reviews’ dataset  is preprocessed using various methods such as lemmatization, stop words, etc. The preprocessed data is then used to train models like Naïve Bayesian, Logistic Regression, Random Forests, etc. Effectiveness of training models is then compared using factors like Precison, Recall, F-measure.  
